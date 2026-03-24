@@ -1,0 +1,33 @@
+### Read all products
+GET http://localhost:6000/product-api/products
+
+
+### Read product by productId
+GET http://localhost:6000/product-api/products/101
+
+
+### Create product
+POST http://localhost:6000/product-api/products
+Content-Type: application/json
+
+{
+  "productId":101,
+  "productName":"Laptop",
+  "price":45000,
+  "brand":"Dell"
+}
+
+
+### Update product
+PUT http://localhost:6000/product-api/products/101
+Content-Type: application/json
+
+{
+  "productName":"Gaming Laptop",
+  "price":48000,
+  "brand":"HP"
+}
+
+
+### Delete product
+DELETE http://localhost:6000/product-api/products/101
