@@ -2,7 +2,7 @@
 
 This repository contains the assignments for Week 6 of the training program.
 
-## 🎯 Learning Objectives
+## Learning Objectives
 This week is dedicated to modern frontend development. The focus shifts from static pages to dynamic, component-based applications. You will:
 - Initialize and configure modern frontend projects (like React or Vite).
 - Understand the component-based architecture.
@@ -15,7 +15,7 @@ This week is dedicated to modern frontend development. The focus shifts from sta
 - **`user-app/`**: A distinct frontend application focused on user management and interaction.
 - **`user-app-2/`**: Another iteration, variation, or advanced version of a user management application, potentially exploring different state management or routing techniques.
 
-## 🚀 How to Run Applications
+## How to Run Applications
 Each folder in this week's assignments is a standalone Node.js-based frontend project. You will need to start them individually.
 
 For any given application (e.g., `user-app`):
