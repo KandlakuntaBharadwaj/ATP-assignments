@@ -2,7 +2,7 @@
 
 This repository contains the assignments for Week 3 of the training program.
 
-## 🎯 Learning Objectives
+##Learning Objectives
 The primary focus of this week is on building robust backend services. By completing these tasks, you will:
 - Understand how to initialize and configure a Node.js project using npm.
 - Build RESTful APIs using the Express.js framework.
@@ -18,7 +18,7 @@ The primary focus of this week is on building robust backend services. By comple
 - **`product.http`**: An HTTP request configuration file used to manually test and verify the API endpoints (e.g., using the VS Code REST Client extension).
 - **`package.json` & `package-lock.json`**: Dependency management files containing project scripts and required modules like `express`.
 
-## 🚀 How to Run
+## How to Run
 1. Navigate to the `week-3` directory in your terminal.
 2. Install the required Node.js dependencies:
    ```bash
